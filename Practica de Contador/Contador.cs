@@ -45,7 +45,7 @@ namespace Practica_de_Contador
                 Displayeador.Text = cadena[(cadena.Count-1)].ToString();
             }
             else {
-                Displayeador.Text = "Vacio";
+                Displayeador.Text = "La cadena esta vacia";
             }
         }
 
